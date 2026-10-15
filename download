@@ -1,0 +1,5 @@
+output/
+*.zip
+.Rhistory
+.RData
+.Rproj.user/
